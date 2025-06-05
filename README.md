@@ -54,3 +54,7 @@ curl -X POST http://localhost:8080/event/status \
 
 <img width="604" alt="Screenshot 2025-06-05 at 12 41 35 PM" src="https://github.com/user-attachments/assets/84614716-322d-41bd-8def-b324af0a2143" />
 
+<img width="586" alt="Screenshot 2025-06-05 at 12 42 51 PM" src="https://github.com/user-attachments/assets/b7618850-4d69-426c-a94f-8637110af5f4" />
+
+
+
