@@ -50,3 +50,7 @@ curl -X POST http://localhost:8080/event/status \
 - TODO -> Implement Protobuf serialization to compact the message and improve the performance.
 
 ## 📷 Screenshots
+<img width="592" alt="Screenshot 2025-06-05 at 12 40 51 PM" src="https://github.com/user-attachments/assets/94242835-a366-496b-9477-89d60257c5fe" />
+
+<img width="604" alt="Screenshot 2025-06-05 at 12 41 35 PM" src="https://github.com/user-attachments/assets/84614716-322d-41bd-8def-b324af0a2143" />
+
